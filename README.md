@@ -1,5 +1,5 @@
 # DaemonProKeepAlive   请下载最新安装包，github上的安装包已失效!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!：
-2022 Android平台进程保活技术DaemonProcess
+2022全网最新！！！ Android平台进程保活技术DaemonProcess
 支持android6-12版本进程保活
 支持厂商，三星，OPPO,vivo,小米，华为，pixel
 支持无权限后台打开activity即后台弹窗
