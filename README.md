@@ -7,7 +7,7 @@
 5：支持厂商系统级APP拉活功能    
 6：支持无权限自启动，安装立即启动无需手动打开（需一定时机条件），支持设备重启拉活，及重启不受影响，部分品牌重启需要一定时间才会自启动，不会立即自己启动  
 7：联系微信：nickme521  
-8：最新体验下载链接，（体验包支持到2023-1-19 14:29:30 过期无效！！！！！！！！！):https://dameonprokeepalive.oss-cn-hangzhou.aliyuncs.com/test/DaemonKeepalive22.apk    
+8：最新体验下载链接，（体验包支持到2023-3-02 14:29:30 过期无效！！！！！！！！！):https://dameonprokeepalive.oss-cn-hangzhou.aliyuncs.com/test/DaemonKeepalive22.apk    
    
    
  测试注意：  一定要联网，一定要联网，一定要联网（否则会一直崩溃）！！！！！！！！！！！！  ，程序监听了锁屏事件，锁屏后重新解锁即可触发后台打开activity事件
