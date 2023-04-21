@@ -1,5 +1,5 @@
 # DaemonProKeepAlive   请下载最新安装包
-2023持续全网最新！！！ Android平台进程保活技术DaemonProcess  保活，APP保活，app保活，Android保活，安卓进程保活，Android进程保活
+2023持续全网最新！！！ Android平台进程保活技术DaemonProcess  保活，APP保活，app保活，Android保活，安卓进程保活，Android进程保活  
 1：支持国内android6-12，国外6-13版本进程保活  
 2：支持厂商，google原生系统，三星，OPPO,vivo,小米，华为，pixel  
 3：支持无权限后台打开activity即后台弹窗  
