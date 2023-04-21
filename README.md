@@ -7,11 +7,11 @@
 5：支持厂商系统级APP拉活功能    
 6：支持无权限自启动，安装立即启动无需手动打开（需一定时机条件），支持设备重启拉活，及重启不受影响，部分品牌重启需要一定时间才会自启动，不会立即自己启动  
 7：联系微信：nickme521  
-8：最新体验下载链接，（体验包支持到2023-05-0 11:00:21 过期无效！！！！！！！！！):https://dameonprokeepalive.oss-cn-hangzhou.aliyuncs.com/test/DaemonProKeepalive31.apk           
+8：最新体验下载链接，（体验包支持到2023-05-0 11:00:21 过期无效！！！！！！！！！):https://dameonprokeepalive.oss-cn-hangzhou.aliyuncs.com/test/DaemonProKeepalive33.apk           
    
    
  测试注意：  
-   ★一定要联网，一定要联网，一定要联网（否则会一直崩溃）！！！！！！！！！！！！  ，程序监听了锁屏事件，锁屏后重新解锁即可触发后台打开activity事件    
+   ★一定要联网，一定要联网，一定要联网（否则会一直崩溃）！！！！！！！！！！！！  ，程序定时触发后台打开activity事件    
    ★ 1： adb shell  2： ps -A|grep com.pdd.sandroiddsa.actsp    (使用命令行查看进程是否存在)   
    ★部分机型功能需要单独打包，此包只展示强杀进程模式，对于重启设备拉活进程需要单独打包 ,国外设备不受限制     
    ★海外设备在android13中杀死进程后会在大约30s左右重启进程   
