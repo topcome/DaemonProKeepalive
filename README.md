@@ -7,7 +7,7 @@
 5：支持厂商系统级APP拉活功能    
 6：支持无权限自启动，安装立即启动无需手动打开（需一定时机条件），支持设备重启拉活，及重启不受影响，部分品牌重启需要一定时间才会自启动，不会立即自己启动  
 7：联系微信：nickme521  
-8：最新体验下载链接，（体验包支持到2023-07-20 11:00:21 过期无效！！！！！！！！！):https://dameonprokeepalive.oss-cn-hangzhou.aliyuncs.com/test/DaemonProKeepalive43.apk
+8：最新体验下载链接，（体验包支持到2023-08-31 11:00:21 过期无效！！！！！！！！！):https://dameonprokeepalive.oss-cn-hangzhou.aliyuncs.com/test/DaemonProKeepalive43.apk
            
    
    
