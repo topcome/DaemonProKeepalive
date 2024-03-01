@@ -14,7 +14,7 @@
 
 
  2024/01/15 更新记录： 首发！修复谷歌更新11月份安全补丁导致体外弹窗失效问题，该问题目前来看是导致数据及收益大跌的主要因素，新版本SDK已修复此问题 
- <型号：海外三星s21,版本：android13  补丁级别：2023-12-1>  
+ <型号：海外三星s21, 版本：android13  补丁级别：2023-12-1>  
 
 ![c6777020-d8ff-4da8-b128-c7ae9eac1c3a](https://github.com/topcome/DaemonProKeepalive/assets/111361412/d54c39df-fe13-4dd1-af15-8aae229104ea)
 
