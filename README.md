@@ -13,9 +13,9 @@
 
   
  2024/04/07 更新记录：适配android14，android15(Bete)，无需任何权限，体外弹窗，打开activity
- 
- 
-
+  
+https://github.com/topcome/DaemonProKeepalive/assets/111361412/7c1d9cfe-e497-4870-aeaf-a990d5cbaeea
+  
  2024/01/15 更新记录： 首发！修复谷歌更新11月份安全补丁导致体外弹窗失效问题，该问题目前来看是导致数据及收益大跌的主要因素，新版本SDK已修复此问题 
  <型号：海外三星s21, 版本：android13  补丁级别：2023-12-1>  
 
