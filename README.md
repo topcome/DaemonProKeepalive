@@ -17,7 +17,7 @@
       
 
   
- 2024/04/07 更新记录：适配android14，android15(Bete)，无需任何权限，体外弹窗，打开activity
+ 2024/04/07 更新记录：适配android14，无需任何权限，体外弹窗，打开activity
   
 https://github.com/topcome/DaemonProKeepalive/assets/111361412/7c1d9cfe-e497-4870-aeaf-a990d5cbaeea
   
