@@ -1,6 +1,6 @@
 # DaemonProKeepAlive   
 2024持续全网最新！！！ Android平台进程保活技术DaemonProcess  保活，APP保活，app保活，Android保活，安卓进程保活，Android进程保活      
-1：支持android7-14版本进程保活  
+1：支持android7-14版本进程保活  .
 2：支持无权限后台打开activity即后台弹窗  
 3：支持图标隐藏功能  
 4：支持无权限自启动，支持设备重启拉活，及重启不受影响，部分品牌重启需要一定时间才会自启动，不会立即自己启动  
